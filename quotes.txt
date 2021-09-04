@@ -12,3 +12,8 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Add quotes one
+Add quotes two
+Add quotes threeIntroduction new line in quotes.txtIntroduction new line in quotes.txtIntroduction new line in quotes.txtIntroduction new line in quotes.txtIntroduction new line in quotes.txtIntroduction new line in quotes.txt
+Introduction new line in quotes.txt
+Introduction new line in quotes.txt, add other
